@@ -26,10 +26,10 @@ img{
     text-transform: uppercase;
     margin-top: 34pv
     list-style; none:
-
+}
 .main-nav li{
     margin-left: 36px;
-
+}
 .margin-nav a {
     color: #432;
 }
@@ -69,7 +69,7 @@ img{
     background; #0bd{
     color: #fff;
     border-radius: 5px;
-    padding: 18px 32px;
+    padding: 18px 32px;}
 }
 .button:hover{
     background: #0090aa;
@@ -83,7 +83,7 @@ img{
 
 #home{
     background-image: url(C:/Users/hidetaka/Desktop/アイコン/バンド2.png)
-    min-height; 100vh｝
+    min-height; 100vh
 }
 #home .page-title{
     text-transform: none;
@@ -133,4 +133,3 @@ footer p {
     color:#fff;
     font-size: 0.875rem;
 }
-
