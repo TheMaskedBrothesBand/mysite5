@@ -25,11 +25,11 @@ img{
     font-size: 1.25rem;
     text-transform: uppercase;
     margin-top: 34pv
-    list-style: none;
-}
+    list-style; none:
+
 .main-nav li{
     margin-left: 36px;
-}
+
 .margin-nav a {
     color: #432;
 }
@@ -66,7 +66,7 @@ img{
 
 .button{
     font-size: 1.375rem
-    background: #0bd;
+    background; #0bd{
     color: #fff;
     border-radius: 5px;
     padding: 18px 32px;
@@ -83,7 +83,7 @@ img{
 
 #home{
     background-image: url(C:/Users/hidetaka/Desktop/アイコン/バンド2.png)
-    min-height: 100vh;
+    min-height; 100vh}
 }
 #home .page-title{
     text-transform: none;
