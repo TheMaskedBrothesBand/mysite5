@@ -128,9 +128,7 @@ footer　{
     text-align: center;
     padding: 26px 0;
     margin-top: 50px;
-    position: fixed; /* フッターを画面の下に固定 */
-            bottom: 0; /* 画面下部に配置 */
-            width: 100%; /* 横幅を100%に設定 *
+    
 }
 footer p {
     color:#751b1b;
