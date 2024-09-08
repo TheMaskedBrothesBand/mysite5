@@ -88,3 +88,21 @@ img{
 #home .page-title{
     text-transform: none;
 }
+
+@media(max-width: 600px) {
+    .page-title{
+        font-size: 2.5rem;
+    }
+}
+
+.main-nav{
+    font-size: 1rem;
+    margin-top: 10px;
+}
+.main-nav li{
+    margin: 0 20px;
+}
+
+.home-content{
+    margin-top: 20%;
+}
