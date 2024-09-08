@@ -120,8 +120,8 @@ aside{
 #news{
     background-image:url(バンド.png);
     height: 270px;
-    maragin-bottom: 40px;
+    margin-bottom: 40px;
 }
 #news .page-title{
-    text-aligen: center;
+    text-align: center;
 }
