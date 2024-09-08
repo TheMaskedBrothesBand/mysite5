@@ -93,6 +93,16 @@ img{
     .page-title{
         font-size: 2.5rem;
     }
+.news-contents{
+    flex-direction: column;
+}
+article,
+aside{
+    width: 100%;
+    }
+}
+
+
 }
 
 .main-nav{
