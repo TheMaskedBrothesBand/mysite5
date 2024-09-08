@@ -25,7 +25,7 @@ img{
     font-size: 1.25rem;
     text-transform: uppercase;
     margin-top: 34pv
-    list-style: none;
+    list-style; none:
 }
 .main-nav li{
     margin-left: 36px;
@@ -83,7 +83,7 @@ img{
 
 #home{
     background-image: url(C:/Users/hidetaka/Desktop/アイコン/バンド2.png)
-    min-height; 100vh
+    min-height; 100vh}
 }
 #home .page-title{
     text-transform: none;
